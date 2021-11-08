@@ -1,0 +1,41 @@
+/* Template  Color 
+    #420516
+    #7D1935
+    #B42B51
+    #E63E6D
+*/
+@import url("https://fonts.googleapis.com/css2?family=Yellowtail&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,200;0,300;0,400;0,500;1,100;1,300&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Epilogue", "sans-serif";
+}
+
+.category {
+  margin-top: 12px;
+  margin-left: 20px;
+}
+
+.category-header {
+  font-family: "Yellowtail", sans-serif;
+}
+
+.main-head {
+  background-color: #7d1935;
+  color: white;
+  padding: 20px;
+}
+
+.main-head > h1 {
+  font-family: "Yellowtail", sans-serif;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  color: white;
+  background-color: #b42b51;
+}
